@@ -1,0 +1,7 @@
+body { font-family:'Open Sans', Arial, sans-serif; font-size:30pt }
+#clock { width:80%; margin:100px auto; text-transform:uppercase }
+#clock span { float:left; margin:10px; color:#DEDEDE }
+#clock .selected { color:#555 }
+#footer { color:#666; position:fixed; right:10px; bottom:10px; font-size:8pt }
+#footer a { color:#666; text-decoration:none }
+#footer a:hover { text-decoration:underline }
